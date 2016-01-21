@@ -1,0 +1,131 @@
+﻿<Page
+    x:Class="OrientationFeed.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:OrientationFeed"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+        <DataTemplate x:Key="TweetListViewDataTemplate">
+            <!--<Grid Width="400" Height="125" Background="#FF3B48AA">
+                <Image Width="75" Height="75" HorizontalAlignment="Left" Margin="12.5,0,0,0" Source="{Binding Image}"/>
+                <TextBlock Text="{Binding Name}" FontFamily="Segoe UI Light" FontSize="14" TextTrimming="WordEllipsis" FontWeight="Light" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="95,15,0,0"/>
+                <TextBlock Text="{Binding UserName}" FontFamily="Segoe UI Light" FontSize="14" TextTrimming="WordEllipsis" FontWeight="Light" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="95,35,0,0" Foreground="White"/>
+                <TextBlock Text="{Binding Message}" FontFamily="Segoe UI Light" FontSize="14" TextTrimming="WordEllipsis" FontWeight="Light" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="95,57,0,0" Height="58" Width="295" TextWrapping="Wrap"/>
+            </Grid>-->
+
+            <Grid>
+                <StackPanel Orientation="Horizontal" Height="auto" HorizontalAlignment="Left" VerticalAlignment="Top">
+                    <Image Source="/Assets/picture2.jpg" Width="200" Height="200" VerticalAlignment="Top"/>
+                    <StackPanel Height="auto" Background="#99FF0000" HorizontalAlignment="Left" VerticalAlignment="Top">
+                        <TextBlock Margin="12,6,12,0" x:Name="NameTB" Text="Ting Shijin"/>
+                        <TextBlock Margin="12,6,12,0" x:Name="UsernameTB" Text="@shijin"/>
+                        <TextBlock Margin="12,6,12,12" x:Name="MessageTB" Text="thisis a testing balsdsajdsnjldns #hais" FontFamily="Global User Interface"/>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+        </DataTemplate>
+    </Page.Resources>
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Assets/tweetbackground2.jpg" />
+        </Grid.Background>
+        <ProgressBar x:Name="ProgressBar" Height="40" VerticalAlignment="Top" Visibility="Collapsed"/>
+
+
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <StackPanel Orientation="Horizontal" Height="auto" HorizontalAlignment="Left" VerticalAlignment="Top" Background="#998686D4">
+                <Image Source="/Assets/twitter-bird-dark-bgs.png" Margin="0" Width="70" Height="70"/>
+                <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <TextBlock Text="Hastag us at Twitter!" FontSize="14" FontWeight="Bold" Margin="0,6,0,3"/>
+                    <TextBlock Margin="0" Height="40" Width="300" x:Name="Title" Text="#TUOL" FontSize="30" FontWeight="Light"/>
+                </StackPanel>
+
+            </StackPanel>
+            <StackPanel Grid.Column="2" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Background="#B2F5F5F5">
+                <StackPanel.Resources>
+                    <Storyboard x:Name="TextIn">
+                        <DoubleAnimation EnableDependentAnimation="True" Storyboard.TargetName="ValueStack" Storyboard.TargetProperty="Width" Duration="0:0:0.2"
+                                     From="0" To="200">
+                            <DoubleAnimation.EasingFunction>
+                                <CubicEase EasingMode="EaseOut" />
+                            </DoubleAnimation.EasingFunction>
+                        </DoubleAnimation>
+                    </Storyboard>
+                    <Storyboard x:Name="TextOut">
+                        <DoubleAnimation EnableDependentAnimation="True" Storyboard.TargetName="ValueStack" Storyboard.TargetProperty="Width" Duration="0:0:0.2"
+                                     From="200" To="0">
+                            <DoubleAnimation.EasingFunction>
+                                <CubicEase EasingMode="EaseOut" />
+                            </DoubleAnimation.EasingFunction>
+                        </DoubleAnimation>
+                    </Storyboard>
+                </StackPanel.Resources>
+                <StackPanel Orientation="Horizontal" x:Name="ValueStack" Width="0">
+                    <TextBox Opacity="0.6" Width="130" Text="TUOL"  x:Name="hashval" FontFamily="Global User Interface" />
+                    <Button x:ConnectionId='6' Content="Hash!" FontSize="12"  Background="WhiteSmoke" Foreground="Black" Width="70"                     />
+                </StackPanel>
+                <Image x:ConnectionId='5' x:Name="arrow" Source="/Assets/arrow-right3.png" Width="15" Margin="3" HorizontalAlignment="Left"                                       />
+
+            </StackPanel>
+
+
+        </Grid>
+
+        <!--<ListView SelectionMode="None" IsItemClickEnabled="True" x:Name="TweetListView" HorizontalAlignment="Left" Margin="100,120,0,100" Width="435" ItemTemplate="{StaticResource TweetListViewDataTemplate}" ItemClick="TweetListView_ItemClick"/>-->
+        <Grid x:Name="TweetListView">
+            <Grid.Resources>
+                <Storyboard x:Name="FadeIn">
+                    <DoubleAnimation x:ConnectionId='4'                              Storyboard.TargetName="contenttweet" Storyboard.TargetProperty="Opacity" Duration="0:0:0.8"
+                                     From="0" To="1">
+                    </DoubleAnimation>
+                </Storyboard>
+                <Storyboard x:Name="ExpandIn">
+                    <DoubleAnimation x:ConnectionId='3'                                EnableDependentAnimation="True" Storyboard.TargetName="contenttweet" Storyboard.TargetProperty="Width" Duration="0:0:0.4"
+                                     From="0" To="490">
+                    </DoubleAnimation>
+                </Storyboard>
+                <Storyboard x:Name="StopFade">
+                    <DoubleAnimation x:ConnectionId='2'                                Storyboard.TargetName="contenttweet" 
+                                                   Storyboard.TargetProperty="Opacity" 
+                                                   Duration="0:0:2" 
+                                                   From="1" To="1">
+                    </DoubleAnimation>
+                </Storyboard>
+                <Storyboard x:Name="FadeOut">
+                    <DoubleAnimation x:ConnectionId='1'                               Storyboard.TargetName="contenttweet" 
+                                                   Storyboard.TargetProperty="Opacity" 
+                                                   Duration="0:0:0.8" 
+                                                   From="1" To="0" >
+                    </DoubleAnimation>
+                </Storyboard>
+            </Grid.Resources>
+
+
+            <StackPanel Name="contenttweet" Margin="100,200,0,0" Visibility="Collapsed" Orientation="Horizontal" Height="auto" HorizontalAlignment="Left" VerticalAlignment="Top" >
+                <Grid HorizontalAlignment="Left" VerticalAlignment="Top" >
+                    <Rectangle Fill="#D8FFFFFF" Width="170" Height="170" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    <Image x:Name="ProfileImage" Source="/Assets/picture2.jpg" Width="150" Height="150" VerticalAlignment="Center"/>
+                </Grid>
+                <StackPanel Height="auto" Background="#B28F0808" HorizontalAlignment="Left" VerticalAlignment="Top" Width="320">
+                    <TextBlock Margin="12,6,12,0" x:Name="NameTB" Text="Ting Shijin" FontSize="20" FontWeight="ExtraBold"/>
+                    <TextBlock Margin="12,6,12,0" x:Name="UsernameTB" Text="@shijin" FontSize="15" FontWeight="SemiBold" Foreground="#FFF1EFEF"/>
+                    <TextBlock Margin="12,6,12,12" x:Name="MessageTB" Text="thisis a testing balsdsajdsnjldns #hais" TextWrapping="Wrap" FontSize="15" FontWeight="Normal" Foreground="#FFF0EDED"/>
+                </StackPanel>
+                <StackPanel.RenderTransform>
+                    <CompositeTransform />
+                </StackPanel.RenderTransform>
+            </StackPanel>
+        </Grid>
+        <!--<Button Click="RefreshButton_Click" x:Name="RefreshButton" Content="Refresh" HorizontalAlignment="Left" Margin="540,120,0,0" VerticalAlignment="Top"/>-->
+    </Grid>
+</Page>
+

@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TINGSHICHUAC540</Machine>
+    <WindowsUser>ting</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2547TingShiChuan.InstaHash</PackageIdentityName>
+    <IntermediateOutputPath>C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Release\OrientationFeed.exe">
+      <PackagePath>OrientationFeed.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\packages\Newtonsoft.Json.6.0.1\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\arrow-right.png">
+      <PackagePath>Assets\arrow-right.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\arrow-right2.png">
+      <PackagePath>Assets\arrow-right2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\arrow-right3.png">
+      <PackagePath>Assets\arrow-right3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\Instagram-Logo-300x300.png">
+      <PackagePath>Assets\Instagram-Logo-300x300.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\InstaHash\ic_150.png">
+      <PackagePath>Assets\InstaHash\ic_150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\InstaHash\ic_30.png">
+      <PackagePath>Assets\InstaHash\ic_30.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\InstaHash\ic_50.png">
+      <PackagePath>Assets\InstaHash\ic_50.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\InstaHash\instahash_dark.png">
+      <PackagePath>Assets\InstaHash\instahash_dark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\InstaHash\instahash_light.png">
+      <PackagePath>Assets\InstaHash\instahash_light.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\InstaHash\splash.png">
+      <PackagePath>Assets\InstaHash\splash.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\InstaHash\SplashScreen.scale-310.png">
+      <PackagePath>Assets\InstaHash\SplashScreen.scale-310.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\left-arrow.png">
+      <PackagePath>Assets\left-arrow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\Logos\applogo.png">
+      <PackagePath>Assets\Logos\applogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\Logos\applogo_wide.png">
+      <PackagePath>Assets\Logos\applogo_wide.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\Logos\logo150.png">
+      <PackagePath>Assets\Logos\logo150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\Logos\logo30.png">
+      <PackagePath>Assets\Logos\logo30.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\Logos\logo50.png">
+      <PackagePath>Assets\Logos\logo50.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\Logos\WideLogo.scale-100.png">
+      <PackagePath>Assets\Logos\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\logo_hor.png">
+      <PackagePath>Assets\logo_hor.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\logo_ver.png">
+      <PackagePath>Assets\logo_ver.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\love-icon.png">
+      <PackagePath>Assets\love-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\twitter-bird-dark-bgs.png">
+      <PackagePath>Assets\twitter-bird-dark-bgs.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\Twitter_logo_blue.png">
+      <PackagePath>Assets\Twitter_logo_blue.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\Backdrop-latest-white.bmp">
+      <PackagePath>Assets\Backdrop-latest-white.bmp</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\Backdrop-latest.bmp">
+      <PackagePath>Assets\Backdrop-latest.bmp</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\InstaHash\background-ih.jpg">
+      <PackagePath>Assets\InstaHash\background-ih.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\InstaHash\ic_310.jpg">
+      <PackagePath>Assets\InstaHash\ic_310.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\InstaHash\ic_70.jpg">
+      <PackagePath>Assets\InstaHash\ic_70.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\InstaHash\splash.jpg">
+      <PackagePath>Assets\InstaHash\splash.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\Logos\logo310.scale-100.jpg">
+      <PackagePath>Assets\Logos\logo310.scale-100.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\Logos\logo70.scale-100.jpg">
+      <PackagePath>Assets\Logos\logo70.scale-100.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\Logos\OLwide-logo.jpg">
+      <PackagePath>Assets\Logos\OLwide-logo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\Logos\TechOL.jpg">
+      <PackagePath>Assets\Logos\TechOL.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\tweetbackground.jpg">
+      <PackagePath>Assets\tweetbackground.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\Assets\tweetbackground2.jpg">
+      <PackagePath>Assets\tweetbackground2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Release\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Release\InstagramFeed.xbf">
+      <PackagePath>InstagramFeed.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Release\PrivacyPolicy.xbf">
+      <PackagePath>PrivacyPolicy.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Release\OrientationFeed.xr.xml">
+      <PackagePath>OrientationFeed.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

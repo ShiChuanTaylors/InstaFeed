@@ -1,0 +1,341 @@
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\App.xbf
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\MainPage.xbf
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\OrientationFeed.exe
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\OrientationFeed.pdb
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\resources.pri
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\AppxManifest.xml
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\OrientationFeed.build.appxrecipe
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\App.g.i.cs
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\App.g.cs
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\MainPage.g.i.cs
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\MainPage.g.cs
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\App.xaml
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\App.xbf
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\XamlSaveStateFile.xml
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\MainPage.xaml
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\MainPage.xbf
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\OrientationFeed.exe
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\OrientationFeed.pdb
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\OrientationFeed.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\priconfig.xml
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\priconfig.xml.intermediate
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\layout.resfiles
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\layout.resfiles.intermediate
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\resources.resfiles
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\resources.resfiles.intermediate
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\pri.resfiles
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\pri.resfiles.intermediate
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\qualifiers.txt
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\qualifiers.txt.intermediate
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\user\documents\visual studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\ProjectArchitectures.txt
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\App.xbf
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\MainPage.xbf
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\OrientationFeed.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\OrientationFeed.pdb
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\resources.pri
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\AppxManifest.xml
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\OrientationFeed.build.appxrecipe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\OrientationFeed.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\App.g.i.cs
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\App.g.cs
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\MainPage.g.i.cs
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\MainPage.g.cs
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\App.xaml
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\App.xbf
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\XamlSaveStateFile.xml
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\MainPage.xaml
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\MainPage.xbf
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\OrientationFeed.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\OrientationFeed.pdb
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\OrientationFeed.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\priconfig.xml
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\priconfig.xml.intermediate
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\layout.resfiles
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\layout.resfiles.intermediate
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\resources.resfiles
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\resources.resfiles.intermediate
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\pri.resfiles
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\pri.resfiles.intermediate
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\qualifiers.txt
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\qualifiers.txt.intermediate
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\hp\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\ProjectArchitectures.txt
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\bin\Debug\App.xbf
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\bin\Debug\MainPage.xbf
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\bin\Debug\PrivacyPolicy.xbf
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\bin\Debug\OrientationFeed.exe
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\bin\Debug\OrientationFeed.pdb
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\bin\Debug\resources.pri
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\bin\Debug\AppxManifest.xml
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\bin\Debug\OrientationFeed.build.appxrecipe
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\App.g.i.cs
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\App.g.cs
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\MainPage.g.i.cs
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\MainPage.g.cs
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\PrivacyPolicy.g.i.cs
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\PrivacyPolicy.g.cs
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\App.xaml
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\PrivacyPolicy.xaml
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\App.xbf
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\PrivacyPolicy.xbf
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\XamlSaveStateFile.xml
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\MainPage.xaml
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\MainPage.xbf
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\OrientationFeed.exe
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\OrientationFeed.pdb
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\OrientationFeed.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\priconfig.xml
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\priconfig.xml.intermediate
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\layout.resfiles
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\layout.resfiles.intermediate
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\resources.resfiles
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\resources.resfiles.intermediate
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\pri.resfiles
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\pri.resfiles.intermediate
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\qualifiers.txt
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\qualifiers.txt.intermediate
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\ProjectArchitectures.txt
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\OrientationFeed.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\bin\Debug\About.xbf
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\About.g.i.cs
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\About.g.cs
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\About.xaml
+C:\Users\hp\Desktop\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\About.xbf
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\bin\Debug\App.xbf
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\bin\Debug\About.xbf
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\bin\Debug\MainPage.xbf
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\bin\Debug\PrivacyPolicy.xbf
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\bin\Debug\OrientationFeed.exe
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\bin\Debug\OrientationFeed.pdb
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\bin\Debug\resources.pri
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\bin\Debug\AppxManifest.xml
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\bin\Debug\OrientationFeed.build.appxrecipe
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\bin\Debug\Newtonsoft.Json.dll
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\bin\Debug\Newtonsoft.Json.xml
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\OrientationFeed.csprojResolveAssemblyReference.cache
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\App.g.i.cs
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\App.g.cs
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\About.g.i.cs
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\About.g.cs
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\MainPage.g.i.cs
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\MainPage.g.cs
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\PrivacyPolicy.g.i.cs
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\PrivacyPolicy.g.cs
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\XamlTypeInfo.g.cs
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\App.xaml
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\About.xaml
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\MainPage.xaml
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\PrivacyPolicy.xaml
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\App.xbf
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\About.xbf
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\MainPage.xbf
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\PrivacyPolicy.xbf
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\XamlSaveStateFile.xml
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\OrientationFeed.exe
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\OrientationFeed.pdb
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\OrientationFeed.csproj.GenerateResource.Cache
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\priconfig.xml
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\priconfig.xml.intermediate
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\layout.resfiles
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\layout.resfiles.intermediate
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\resources.resfiles
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\resources.resfiles.intermediate
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\pri.resfiles
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\pri.resfiles.intermediate
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\qualifiers.txt
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\qualifiers.txt.intermediate
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\backup\OL_Logo\OrientationFeed\OrientationFeed\obj\Debug\ProjectArchitectures.txt
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\OrientationFeed.csprojResolveAssemblyReference.cache
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\App.g.i.cs
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\App.g.cs
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\About.g.i.cs
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\About.g.cs
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\MainPage.g.i.cs
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\MainPage.g.cs
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\PrivacyPolicy.g.i.cs
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\PrivacyPolicy.g.cs
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\App.xaml
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\About.xaml
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\MainPage.xaml
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\PrivacyPolicy.xaml
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\App.xbf
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\About.xbf
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\MainPage.xbf
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\PrivacyPolicy.xbf
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\OrientationFeed.exe
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\OrientationFeed.pdb
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\App.xbf
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\About.xbf
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\MainPage.xbf
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\PrivacyPolicy.xbf
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\OrientationFeed.exe
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\OrientationFeed.pdb
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\resources.pri
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\AppxManifest.xml
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\OrientationFeed.build.appxrecipe
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\OrientationFeed.csproj.GenerateResource.Cache
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\priconfig.xml
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\priconfig.xml.intermediate
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\layout.resfiles
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\layout.resfiles.intermediate
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\resources.resfiles
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\resources.resfiles.intermediate
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\pri.resfiles
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\pri.resfiles.intermediate
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\qualifiers.txt
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\OrientationFeed\OrientationFeed\obj\Debug\ProjectArchitectures.txt
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\App.g.i.cs
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\App.g.cs
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\About.g.i.cs
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\About.g.cs
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\InstagramFeed.g.i.cs
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\InstagramFeed.g.cs
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\PrivacyPolicy.g.i.cs
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\PrivacyPolicy.g.cs
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\App.xaml
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\About.xaml
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\InstagramFeed.xaml
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\PrivacyPolicy.xaml
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\App.xbf
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\About.xbf
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\InstagramFeed.xbf
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\PrivacyPolicy.xbf
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\App.xbf
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\About.xbf
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\InstagramFeed.xbf
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\PrivacyPolicy.xbf
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\OrientationFeed.xr.xml
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\OrientationFeed.exe
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\OrientationFeed.pdb
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\resources.pri
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\AppxManifest.xml
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\OrientationFeed.build.appxrecipe
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\OrientationFeed.exe
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\OrientationFeed.pdb
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\OrientationFeed.csproj.GenerateResource.Cache
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\priconfig.xml
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\priconfig.xml.intermediate
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\layout.resfiles
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\layout.resfiles.intermediate
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\resources.resfiles
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\resources.resfiles.intermediate
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\pri.resfiles
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\pri.resfiles.intermediate
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\qualifiers.txt
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Shi Chuan\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\ProjectArchitectures.txt
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\App.xbf
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\About.xbf
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\InstagramFeed.xbf
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\PrivacyPolicy.xbf
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\OrientationFeed.xr.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\OrientationFeed.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\OrientationFeed.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\resources.pri
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\AppxManifest.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\OrientationFeed.build.appxrecipe
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\Newtonsoft.Json.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\Newtonsoft.Json.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\OrientationFeed.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\App.g.i.cs
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\App.g.cs
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\About.g.i.cs
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\About.g.cs
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\InstagramFeed.g.i.cs
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\InstagramFeed.g.cs
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\PrivacyPolicy.g.i.cs
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\PrivacyPolicy.g.cs
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\XamlTypeInfo.g.cs
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\App.xaml
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\About.xaml
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\InstagramFeed.xaml
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\PrivacyPolicy.xaml
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\App.xbf
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\About.xbf
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\InstagramFeed.xbf
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\PrivacyPolicy.xbf
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\XamlSaveStateFile.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\OrientationFeed.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\OrientationFeed.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\OrientationFeed.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\priconfig.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\priconfig.xml.intermediate
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\layout.resfiles
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\layout.resfiles.intermediate
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\resources.resfiles
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\resources.resfiles.intermediate
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\pri.resfiles
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\pri.resfiles.intermediate
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\qualifiers.txt
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\qualifiers.txt.intermediate
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+\\psf\Home\Documents\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\ProjectArchitectures.txt
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\App.xbf
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\About.xbf
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\InstagramFeed.xbf
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\PrivacyPolicy.xbf
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\OrientationFeed.xr.xml
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\OrientationFeed.exe
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\OrientationFeed.pdb
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\resources.pri
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\AppxManifest.xml
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\OrientationFeed.build.appxrecipe
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\Newtonsoft.Json.dll
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\bin\Debug\Newtonsoft.Json.xml
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\OrientationFeed.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\App.g.i.cs
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\App.g.cs
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\About.g.i.cs
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\About.g.cs
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\InstagramFeed.g.i.cs
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\InstagramFeed.g.cs
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\PrivacyPolicy.g.i.cs
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\PrivacyPolicy.g.cs
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\XamlTypeInfo.g.cs
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\App.xaml
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\About.xaml
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\InstagramFeed.xaml
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\PrivacyPolicy.xaml
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\App.xbf
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\About.xbf
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\InstagramFeed.xbf
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\PrivacyPolicy.xbf
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\XamlSaveStateFile.xml
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\OrientationFeed.exe
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\OrientationFeed.pdb
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\OrientationFeed.csproj.GenerateResource.Cache
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\priconfig.xml
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\priconfig.xml.intermediate
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\layout.resfiles
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\layout.resfiles.intermediate
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\resources.resfiles
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\resources.resfiles.intermediate
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\pri.resfiles
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\pri.resfiles.intermediate
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\qualifiers.txt
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\qualifiers.txt.intermediate
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Visual Studio 2013\Projects\InstaFeed\OrientationFeed\obj\Debug\ProjectArchitectures.txt
