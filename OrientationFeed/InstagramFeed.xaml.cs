@@ -33,7 +33,7 @@ namespace OrientationFeed
             BackgroundTb.Text = "#"+ hashvalue;
         }
 
-        Uri targetUri2 = new Uri(@"https://api.instagram.com/oauth/authorize/?client_id=0f72aa5bb32849be9d6e67ab1a65793b&redirect_uri=https://api.instagram.com&response_type=code");
+        Uri targetUri2 = new Uri(@"https://api.instagram.com/oauth/authorize/?client_id=" + client_id + "&redirect_uri=https://api.instagram.com&response_type=code");
 
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
@@ -68,8 +68,8 @@ namespace OrientationFeed
                     string code = uri.Split('?').Last().Replace("code=", string.Empty);
                     NameValueCollection parameters = new NameValueCollection()
                     {
-                        client_id = "0f72aa5bb32849be9d6e67ab1a65793b",
-                        client_secret = "700e90d2bf2e42fbaee15d410c491ee0",
+                        client_id = "",
+                        client_secret = "",
                         grant_type = "authorization_code",
                         redirect_uri = "https://api.instagram.com",
                         code = code,

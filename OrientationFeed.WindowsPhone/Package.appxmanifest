@@ -1,11 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
 
-  <Identity Name="8e543e12-da6c-4085-a9bd-3712b0dbe21a"
-            Publisher="CN=ting"
-            Version="1.0.0.0" />
-
-  <mp:PhoneIdentity PhoneProductId="8e543e12-da6c-4085-a9bd-3712b0dbe21a" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>OrientationFeed.WindowsPhone</DisplayName>

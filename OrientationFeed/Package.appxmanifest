@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
-  <Identity Name="2547TingShiChuan.InstaHash" Publisher="CN=FBFC054A-9F27-4583-B1E2-D26A41043074" Version="1.1.0.1" />
+  <Identity Name="2547TingShiChuan.InstaHash" Publisher="" Version="1.1.0.1" />
   <Properties>
     <DisplayName>InstaHash</DisplayName>
     <PublisherDisplayName>Ting Shi Chuan</PublisherDisplayName>
